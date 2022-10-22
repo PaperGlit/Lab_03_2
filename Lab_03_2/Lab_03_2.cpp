@@ -13,12 +13,7 @@ int main()
 {
 	SetConsoleOutputCP(1251);
 
-	double x;
-	double a;
-	double b;
-	double c;
-	double F1;
-	double F2;
+	double a, b, c, x, F1, F2;
 
 	cout << "a = "; cin >> a;
 	cout << "b = "; cin >> b;
